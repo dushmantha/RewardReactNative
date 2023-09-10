@@ -1,0 +1,77 @@
+
+{
+  "Earned": [
+    {
+      "id": 1,
+      "date": "2023-09-01",
+      "source": "Referral Bonus",
+      "amount": 50.00,
+      "isEarn": true
+    },
+    {
+      "id": 2,
+      "date": "2023-09-03",
+      "source": "Purchase Cashback",
+      "amount": 200.50,
+      "isEarn": true
+    },
+    {
+      "id": 3,
+      "date": "2023-09-05",
+      "source": "Daily Login Reward",
+      "amount": 5.00,
+      "isEarn": true
+    },
+    {
+      "id": 4,
+      "date": "2023-09-08",
+      "source": "Promotion Bonus",
+      "amount": 300.00,
+      "isEarn": true
+    },
+    {
+      "id": 5,
+      "date": "2023-09-10",
+      "source": "Referral Bonus",
+      "amount": 50.00,
+      "isEarn": true
+    }
+  ],
+  "Spent": [
+    {
+      "id": 1,
+      "date": "2023-09-07",
+      "source": "Redeem Gift Card",
+      "amount": 30.00,
+      "isEarn": false
+    },
+    {
+      "id": 2,
+      "date": "2023-09-12",
+      "source": "Product Purchase",
+      "amount": 15.75,
+      "isEarn": false
+    },
+    {
+      "id": 3,
+      "date": "2023-09-17",
+      "source": "Redeem Gift Card",
+      "amount": 20.00,
+      "isEarn": false
+    },
+    {
+      "id": 4,
+      "date": "2023-09-20",
+      "source": "Product Purchase",
+      "amount": 12.50,
+      "isEarn": false
+    },
+    {
+      "id": 5,
+      "date": "2023-09-24",
+      "source": "Redeem Gift Card",
+      "amount": 25.00,
+      "isEarn": false
+    }
+  ]
+}
